@@ -7,9 +7,3 @@ Flask-Cors===3.0.8
 
 
 
-cd C:\Users\lukeb\OneDrive\Documents\Python-v2\lil_projects\python-blockchain
-
-blockchain-env\Scripts\activate
-
-python -m backend.app
-
