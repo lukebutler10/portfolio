@@ -1,4 +1,4 @@
-###Building a blockchain and cryptocurrency
+***Building a blockchain and cryptocurrency***
 
 
 **Activate the virtual environments**
