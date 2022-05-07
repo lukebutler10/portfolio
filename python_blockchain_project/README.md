@@ -1,19 +1,25 @@
 # Building a blockchain and cryptocurrency
 
-
+## Description 
 In this project I followed a course to create my own blockchain and cryptocurrency using Python, JavaScript and React. 
 
-Some of the things this involved:
-What your app
-
 
 Some of the things this involved:
-Using a sha -256
-Testing using the pytest module
+- Using the sha256 hash function
+- Testing blocks of code using the pytest module
+- Frontend development which allowed many users to access the cryptocurrency.
+- Creating APIs with Python Flask
+- 
 
 
 Here's a [link](https://www.udemy.com/course/python-js-react-blockchain/) to the course webpage
 
+
+## How to use
+
+#### Initial steps
+- First check the requirements.text file and install the libraries listed there
+- Create a virtual environment where the project will be run
 
 **Activate the virtual environments**
 
